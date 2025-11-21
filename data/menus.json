@@ -1,0 +1,160 @@
+[
+    {
+        "order": 1,
+        "label": "Al-Quran",
+        "icon": "local::packages/nuikit/assets/images/feature/alquran.svg",
+        "route": "/quran",
+        "params": null
+    },
+    {
+        "order": 2,
+        "label": "Wirid & Doa",
+        "icon": "local::packages/nuikit/assets/images/feature/doa.svg",
+        "route": "/doa",
+        "params": null
+    },
+    {
+        "order": 3,
+        "label": "Jadwal Shalat",
+        "icon": "local::packages/nuikit/assets/images/feature/jadwal_sholat.svg",
+        "route": "/prayer-time",
+        "params": null
+    },
+    {
+        "order": 4,
+        "label": "Kiblat",
+        "icon": "local::packages/nuikit/assets/images/feature/kiblat.svg",
+        "route": "/qibla",
+        "params": null
+    },
+    {
+        "order": 5,
+        "label": "Tahlil & Yasin",
+        "icon": "local::packages/nuikit/assets/images/feature/tahlil.svg",
+        "route": "/yasin",
+        "params": null
+    },
+    {
+        "order": 6,
+        "label": "Maulid",
+        "icon": "local::packages/nuikit/assets/images/feature/maulid.svg",
+        "route": "/maulid",
+        "params": null
+    },
+    {
+        "order": 7,
+        "label": "Zakat & Sedekah",
+        "icon": "local::packages/nuikit/assets/images/feature/donasi.svg",
+        "route": "/donation",
+        "params": null
+    },
+    {
+        "order": 8,
+        "label": "Tasbih",
+        "icon": "local::packages/nuikit/assets/images/feature/tasbih.svg",
+        "route": "/tasbih",
+        "params": null
+    },
+    {
+        "order": 9,
+        "label": "Ziarah",
+        "icon": "local::packages/nuikit/assets/images/feature/ziarah.svg",
+        "route": "/ziarah",
+        "params": null
+    },
+    {
+        "order": 10,
+        "label": "NUpedia",
+        "icon": "local::packages/nuikit/assets/images/feature/nupedia.svg",
+        "route": "/encyclopedia",
+        "params": null
+    },
+    {
+        "order": 11,
+        "label": "Tutorial Ibadah",
+        "icon": "local::packages/nuikit/assets/images/feature/tutorial_ibadah.svg",
+        "route": "/tutorial",
+        "params": null
+    },
+    {
+        "order": 12,
+        "label": "Cari Ayat Al-Quran",
+        "icon": "local::packages/nuikit/assets/images/feature/cari_ayat.svg",
+        "route": "/quran/quran-search",
+        "params": null
+    },
+    {
+        "order": 13,
+        "label": "Terjemah & Tafsir",
+        "icon": "local::packages/nuikit/assets/images/feature/cari_tafsir.svg",
+        "route": "/tafsir",
+        "params": null
+    },
+    {
+        "order": 14,
+        "label": "Khutbah",
+        "icon": "local::packages/nuikit/assets/images/feature/khutbah.svg",
+        "route": "/article/article-category",
+        "params": {
+            "id": "9",
+            "title": "Khutbah"
+        }
+    },
+    {
+        "order": 15,
+        "label": "Kalkulator Zakat",
+        "icon": "local::packages/nuikit/assets/images/feature/zakat.svg",
+        "route": "/zakat",
+        "params": null
+    },
+    {
+        "order": 16,
+        "label": "Ramadhan",
+        "icon": "local::packages/nuikit/assets/images/feature/ramadhan.svg",
+        "route": "/ramadhan",
+        "params": null
+    },
+    {
+        "order": 17,
+        "label": "Kalender Hijriah",
+        "icon": "local::packages/nuikit/assets/images/feature/kalender.svg",
+        "route": "/calendar",
+        "params": null
+    },
+    {
+        "order": 18,
+        "label": "Haji & Umrah",
+        "icon": "local::packages/nuikit/assets/images/feature/haji.svg",
+        "route": "/haji",
+        "params": null
+    },
+    {
+        "order": 19,
+        "label": "Video",
+        "icon": "local::packages/nuikit/assets/images/feature/video.svg",
+        "route": "/video",
+        "params": null
+    },
+    {
+        "order": 20,
+        "label": "Topik",
+        "icon": "local::packages/nuikit/assets/images/feature/topik.svg",
+        "route": "/topic",
+        "params": null
+    },
+    {
+        "order": 21,
+        "label": "Kalam",
+        "icon": "local::packages/nuikit/assets/images/feature/kalam.svg",
+        "route": "/kalam",
+        "params": null
+    },
+    {
+        "order": 22,
+        "label": "Kalkulator Waris",
+        "icon": "local::packages/nuikit/assets/images/feature/waris.svg",
+        "route": "/waris",
+        "params": null
+    }
+
+]

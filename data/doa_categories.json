@@ -1,0 +1,452 @@
+[
+	{
+		"id": 52,
+		"name": "Doa saat di Mina",
+		"slug": "doa-saat-di-mina",
+		"order": null,
+		"updated_at": "2024-04-29T04:08:31.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 6
+	},
+	{
+		"id": 46,
+		"name": " Doa saat di Makkah",
+		"slug": "doa-saat-di-makkah",
+		"order": null,
+		"updated_at": "2024-04-28T01:19:26.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 6
+	},
+	{
+		"id": 47,
+		"name": "Doa Tawaf",
+		"slug": "doa-tawaf",
+		"order": null,
+		"updated_at": "2024-04-28T01:37:24.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 12
+	},
+	{
+		"id": 48,
+		"name": "Doa Sa'i",
+		"slug": "doa-sai",
+		"order": null,
+		"updated_at": "2024-04-28T09:17:21.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 11
+	},
+	{
+		"id": 49,
+		"name": "Doa Bercukur (Tahallul)",
+		"slug": "doa-bercukur-tahallul",
+		"order": null,
+		"updated_at": "2024-04-28T09:48:28.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 2
+	},
+	{
+		"id": 45,
+		"name": "Bacaan Talbiyah dan Shalawat",
+		"slug": "bacaan-talbiyah-dan-shalawat",
+		"order": null,
+		"updated_at": "2024-04-27T15:49:50.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 3
+	},
+	{
+		"id": 50,
+		"name": "Doa saat di Arafah",
+		"slug": "doa-saat-di-arafah",
+		"order": null,
+		"updated_at": "2024-04-28T15:54:46.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 7
+	},
+	{
+		"id": 51,
+		"name": "Doa saat di Muzdalifah",
+		"slug": "doa-saat-di-muzdalifah",
+		"order": null,
+		"updated_at": "2024-04-28T16:35:15.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 3
+	},
+	{
+		"id": 53,
+		"name": "Doa Tawaf Wada'",
+		"slug": "doa-tawaf-wada",
+		"order": null,
+		"updated_at": "2024-04-29T04:24:26.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 2
+	},
+	{
+		"id": 54,
+		"name": "Doa saat di Madinah",
+		"slug": "doa-saat-di-madinah",
+		"order": null,
+		"updated_at": "2024-04-29T04:32:47.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 11
+	},
+	{
+		"id": 44,
+		"name": "Niat Ihram",
+		"slug": "niat-ihram",
+		"order": null,
+		"updated_at": "2024-04-27T15:03:24.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 6
+	},
+	{
+		"id": 43,
+		"name": "Doa dalam Perjalanan ",
+		"slug": "doa-dalam-perjalanan",
+		"order": null,
+		"updated_at": "2024-04-27T05:42:21.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 6
+	},
+	{
+		"id": 55,
+		"name": "Doa saat Tiba di Tanah Air",
+		"slug": "doa-setelah-shalat-sunnah",
+		"order": null,
+		"updated_at": "2024-04-29T04:55:30.000000Z",
+		"view_count": 0,
+		"group": "haji-dan-umrah",
+		"total": 2
+	},
+	{
+		"id": 17,
+		"name": "Wirid Harian",
+		"slug": "wirid-harian",
+		"order": 1,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 6
+	},
+	{
+		"id": 26,
+		"name": "Maulid Diba'i",
+		"slug": "maulid-dibai",
+		"order": 1,
+		"updated_at": "2023-11-17T10:27:23.000000Z",
+		"view_count": 0,
+		"group": "maulid",
+		"total": 29
+	},
+	{
+		"id": 32,
+		"name": "Ramadhan",
+		"slug": "ramadhan",
+		"order": 1,
+		"updated_at": "2021-09-28T05:09:24.000000Z",
+		"view_count": 0,
+		"group": "spesial",
+		"total": 17
+	},
+	{
+		"id": 4,
+		"name": "Doa Keseharian",
+		"slug": "doa-keseharian",
+		"order": 1,
+		"updated_at": "2024-06-13T07:22:45.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 19
+	},
+	{
+		"id": 18,
+		"name": "Shalawat",
+		"slug": "shalawat",
+		"order": 2,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 34
+	},
+	{
+		"id": 36,
+		"name": "Maulid Barzanji",
+		"slug": "maulidul-barzanji",
+		"order": 2,
+		"updated_at": "2023-11-17T10:27:33.000000Z",
+		"view_count": 0,
+		"group": "maulid",
+		"total": 20
+	},
+	{
+		"id": 8,
+		"name": "Doa Rezeki",
+		"slug": "doa-rezeki",
+		"order": 2,
+		"updated_at": "2024-06-13T07:22:48.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 9
+	},
+	{
+		"id": 19,
+		"name": "Asmaul Husna",
+		"slug": "munajat",
+		"order": 3,
+		"updated_at": "2024-09-17T16:07:03.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 3
+	},
+	{
+		"id": 9,
+		"name": "Doa Tolak Bala",
+		"slug": "doa-tolak-bala",
+		"order": 3,
+		"updated_at": "2024-06-13T07:22:48.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 12
+	},
+	{
+		"id": 41,
+		"name": "Maulid Syarafil Anam",
+		"slug": "syaraful-anam",
+		"order": 3,
+		"updated_at": "2023-12-13T03:09:00.000000Z",
+		"view_count": 0,
+		"group": "maulid",
+		"total": 39
+	},
+	{
+		"id": 25,
+		"name": "Simthud Durar",
+		"slug": "maulid-simthud-duror",
+		"order": 4,
+		"updated_at": "2023-12-13T03:09:00.000000Z",
+		"view_count": 0,
+		"group": "maulid",
+		"total": 17
+	},
+	{
+		"id": 10,
+		"name": "Doa Kesehatan",
+		"slug": "doa-kesehatan",
+		"order": 4,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 5
+	},
+	{
+		"id": 57,
+		"name": "Istighotsah & Mujahadah",
+		"slug": "istighotsah-mujahadah",
+		"order": 4,
+		"updated_at": "2024-09-17T16:07:17.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 7
+	},
+	{
+		"id": 5,
+		"name": "Doa Perjalanan",
+		"slug": "doa-perjalanan",
+		"order": 5,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 7
+	},
+	{
+		"id": 21,
+		"name": "Ratib",
+		"slug": "ratib",
+		"order": 5,
+		"updated_at": "2024-09-17T16:07:17.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 6
+	},
+	{
+		"id": 27,
+		"name": "Qasidah Burdah",
+		"slug": "qasidah-burdah",
+		"order": 5,
+		"updated_at": "2023-11-17T10:28:23.000000Z",
+		"view_count": 0,
+		"group": "maulid",
+		"total": 10
+	},
+	{
+		"id": 20,
+		"name": "Hizib",
+		"slug": "hizib",
+		"order": 6,
+		"updated_at": "2024-09-17T16:07:15.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 9
+	},
+	{
+		"id": 6,
+		"name": "Doa Ilmu",
+		"slug": "doa-ilmu",
+		"order": 6,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 9
+	},
+	{
+		"id": 29,
+		"name": "Adl-Dliyaul Lami'",
+		"slug": "adl-dliyaul-lami",
+		"order": 6,
+		"updated_at": "2023-11-17T10:28:16.000000Z",
+		"view_count": 0,
+		"group": "maulid",
+		"total": 11
+	},
+	{
+		"id": 30,
+		"name": "Maulid 'Azab",
+		"slug": "maulid-al-azab",
+		"order": 6,
+		"updated_at": "2023-11-17T10:27:46.000000Z",
+		"view_count": 0,
+		"group": "maulid",
+		"total": 11
+	},
+	{
+		"id": 23,
+		"name": "Manaqib Syekh Abdul Qadir",
+		"slug": "manaqib-syekh-abdul-qadir",
+		"order": 7,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 9
+	},
+	{
+		"id": 22,
+		"name": "Dalailul Khairat",
+		"slug": "dalailul-khairat",
+		"order": 7,
+		"updated_at": "2024-09-17T16:07:11.000000Z",
+		"view_count": 0,
+		"group": "wirid",
+		"total": 12
+	},
+	{
+		"id": 7,
+		"name": "Doa Waktu Tertentu",
+		"slug": "doa-waktu-tertentu",
+		"order": 7,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 12
+	},
+	{
+		"id": 13,
+		"name": "Doa Kualitas Diri",
+		"slug": "doa-kualitas-diri",
+		"order": 8,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 10
+	},
+	{
+		"id": 37,
+		"name": "Doa Pernikahan & Rumah Tangga",
+		"slug": "doa-pernikahan-rumah-tangga",
+		"order": 9,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 10
+	},
+	{
+		"id": 15,
+		"name": "Doa Hamil & Persalinan",
+		"slug": "doa-hamil-dan-persalinan",
+		"order": 10,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 7
+	},
+	{
+		"id": 40,
+		"name": "Doa Wudhu",
+		"slug": "doa-wudhu",
+		"order": 11,
+		"updated_at": "2024-08-12T04:42:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 11
+	},
+	{
+		"id": 12,
+		"name": "Doa para Nabi di Al-Quran",
+		"slug": "doa-para-nabi-di-al-quran",
+		"order": 12,
+		"updated_at": "2024-08-12T04:42:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 14
+	},
+	{
+		"id": 14,
+		"name": "Doa Baca Al-Quran",
+		"slug": "doa-baca-al-quran",
+		"order": 13,
+		"updated_at": "2024-08-12T04:42:00.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 7
+	},
+	{
+		"id": 11,
+		"name": "Doa Shalat",
+		"slug": "doa-shalat",
+		"order": 14,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 20
+	},
+	{
+		"id": 39,
+		"name": "Doa Haji & Umrah",
+		"slug": "doa-haji-umrah",
+		"order": 15,
+		"updated_at": "2023-10-17T17:00:03.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 21
+	},
+	{
+		"id": 56,
+		"name": "Doa Kematian",
+		"slug": "doa-kematian",
+		"order": 15,
+		"updated_at": "2024-05-14T22:53:07.000000Z",
+		"view_count": 0,
+		"group": "doa",
+		"total": 6
+	}
+]
